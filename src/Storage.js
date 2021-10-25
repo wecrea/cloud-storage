@@ -1,4 +1,4 @@
-class OVHStorage {
+class Storage {
   constructor(config) {
     this.config = config;
   }
