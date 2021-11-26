@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Simple library to store data on ObjectStorage and in ColdStorage (C14 / SFTP)",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -30,7 +31,7 @@
     "moment": "^2.29.1",
     "node-fetch": "^3.0.0"
   },
-  "author": "Wecrea",
+  "author": "Studio Wecrea",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/wecrea/cloud-storage/issues"
